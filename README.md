@@ -1,4 +1,7 @@
 ![cute-wallpaper](https://github.com/user-attachments/assets/2c07a454-ab23-45e9-94bd-2fd92ceef47b)
+![giphy](https://github.com/user-attachments/assets/699e2d03-dcda-4990-9a46-43488b97edf9)
+![giphy (1)](https://github.com/user-attachments/assets/af9bc14e-47ec-4bc0-8401-6e343c004a85)
+![giphy (2)](https://github.com/user-attachments/assets/eeacb63f-f73c-4e11-ba8a-24b7c2cb23e2)
 
 [![piscine](https://github.com/user-attachments/assets/c3d8e9e0-ca23-4991-a382-dd76cec49d19)](https://github.com/Mimine2004/Piscine42) 
 [![libft](https://github.com/user-attachments/assets/09fbd2b2-91f1-4962-b507-89e5b49c1359)](https://github.com/Mimine2004/Libft) 
