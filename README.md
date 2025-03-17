@@ -7,7 +7,7 @@
 ![born2beroot](https://github.com/user-attachments/assets/c7d008bd-1ef2-4f7a-8cc0-b1d38e841af6) 
 [![pushswap](https://github.com/user-attachments/assets/e3591b73-790e-4ae8-905d-57b3e8d09fc3)](https://github.com/Mimine2004/push_swap)
 
-[![hhecquet's 42 stats](https://badge.mediaplus.ma/darkgray/hhecquet?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![hhecquet's 42 stats](https://badge.mediaplus.ma/starryblue/hhecquet?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ![image](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
