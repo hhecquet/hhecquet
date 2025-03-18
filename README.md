@@ -1,4 +1,11 @@
-![bannergit](https://github.com/user-attachments/assets/8b8794f2-208f-4be0-87c2-05daaab8651c)
+![banner](https://github.com/user-attachments/assets/811c22ef-e2c5-4fc9-ba3b-ae560b7b9eec)
+
+![py](https://github.com/user-attachments/assets/fdf4e960-9b3a-469c-bbd5-24b0bb95b945)
+![js](https://github.com/user-attachments/assets/e7d742da-e4cd-4af4-b702-6c1301e6579f)
+![html](https://github.com/user-attachments/assets/9495cdb6-2054-4b76-8f81-85a819f7ecab)
+![css](https://github.com/user-attachments/assets/79b4cdfe-b85b-4e7d-9f3d-fddbf79091e5)
+![c++](https://github.com/user-attachments/assets/5731f366-e8f7-4293-98f2-ca7ac007ba00)
+![c](https://github.com/user-attachments/assets/538dd63d-e9c4-488a-b8c6-dde72df283cc)
 
 
 [![piscine](https://github.com/user-attachments/assets/c3d8e9e0-ca23-4991-a382-dd76cec49d19)](https://github.com/Mimine2004/Piscine42) 
