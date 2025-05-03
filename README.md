@@ -8,7 +8,7 @@
   ## 🤗 Hi! I’m Hermine, a 20‑year‑old student at School 42 Perpignan.
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/1ea9f2ae-8db7-47a7-ad6b-ca2a881880b6"
+    src="https://github.com/user-attachments/assets/1307f9da-6ee1-4144-b0b3-f1a2ae5a0181"
     alt="unamed"
   />
 </p>
@@ -49,3 +49,6 @@ In the future, I plan to pursue the RCP7 diploma in [“Data architecture”](ht
 [![gnl](https://github.com/user-attachments/assets/18b895f8-dec6-4772-a814-42cec3e0f85b)](https://github.com/Mimine2004/get_next_line) 
 ![born2beroot](https://github.com/user-attachments/assets/c7d008bd-1ef2-4f7a-8cc0-b1d38e841af6) 
 [![pushswap](https://github.com/user-attachments/assets/e3591b73-790e-4ae8-905d-57b3e8d09fc3)](https://github.com/Mimine2004/push_swap)
+
+
+
