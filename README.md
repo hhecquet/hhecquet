@@ -5,16 +5,15 @@
   />
 </p>
   
-  # 🤗 Hi! I’m Hermine, a 20‑year‑old student at School 42 Perpignan.
+  ## 🤗 Hi! I’m Hermine, a 20‑year‑old student at School 42 Perpignan.
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/1ea9f2ae-8db7-47a7-ad6b-ca2a881880b6"
     alt="unamed"
   />
 </p>
-<h2 style="border-bottom: none; padding-bottom: 0;">
-  Long story short:
-</h2>
+
+### Long story short:
 I have always been passionate about computer science since I was young. Between the ages of 12 and 15, I participated in contests like [Castor](https://castor-informatique.fr/) and [Algorea](https://algorea.org/#/) at school.
 I then chose to specialize in **engineering sciences** and **mathematics** for my college diploma at the *Military College of Aix‑en‑Provence*, where I had the opportunity to undertake Arduino projects such as a surgical arm and a CO₂ detector.
 Afterward, I enrolled at the Faculty of Nice in southern France, where I began learning SQL and Bash. However, it didn’t quite suit me, so I took a chance and signed up for the 42 Perpignan Piscine in **September 2024 🏊**.
@@ -27,7 +26,7 @@ In the future, I plan to pursue the RCP7 diploma in [“Data architecture”](ht
   />
 </p>
 
-## Skills I have acquired or am currently developing:
+### Skills I have acquired or am currently developing:
 
 [![py](https://github.com/user-attachments/assets/fdf4e960-9b3a-469c-bbd5-24b0bb95b945)](https://www.python.org/)
 [![js](https://github.com/user-attachments/assets/e7d742da-e4cd-4af4-b702-6c1301e6579f)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -42,7 +41,7 @@ In the future, I plan to pursue the RCP7 diploma in [“Data architecture”](ht
   />
 </p>
 
-## 42's Project:
+### 42's Project:
 
 [![piscine](https://github.com/user-attachments/assets/c3d8e9e0-ca23-4991-a382-dd76cec49d19)](https://github.com/Mimine2004/Piscine42) 
 [![libft](https://github.com/user-attachments/assets/09fbd2b2-91f1-4962-b507-89e5b49c1359)](https://github.com/Mimine2004/Libft) 
