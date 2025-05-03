@@ -29,10 +29,10 @@ In the future, I plan to pursue the RCP7 diploma in [“Data architecture”](ht
 
 ### 42's Project:
 
-[![piscine](https://github.com/user-attachments/assets/c3d8e9e0-ca23-4991-a382-dd76cec49d19)](https://github.com/Mimine2004/Piscine42) 
-[![libft](https://github.com/user-attachments/assets/09fbd2b2-91f1-4962-b507-89e5b49c1359)](https://github.com/Mimine2004/Libft) 
-[![printf](https://github.com/user-attachments/assets/18cd9993-a81f-489d-a7c7-fef8604d1e06)](https://github.com/Mimine2004/ft_printf) 
-[![gnl](https://github.com/user-attachments/assets/18b895f8-dec6-4772-a814-42cec3e0f85b)](https://github.com/Mimine2004/get_next_line) 
-![born2beroot](https://github.com/user-attachments/assets/c7d008bd-1ef2-4f7a-8cc0-b1d38e841af6) 
-[![pushswap](https://github.com/user-attachments/assets/e3591b73-790e-4ae8-905d-57b3e8d09fc3)](https://github.com/Mimine2004/push_swap)
-
+[![piscine](https://github.com/user-attachments/assets/d6f4d16a-9596-46ff-95f5-2a6d78014b56)](https://github.com/hhecquet/Piscine42)
+[![libft](https://github.com/user-attachments/assets/8a6971c4-0347-4fa9-8856-579dffd606bc)](https://github.com/hhecquet/Libft)
+[![print](https://github.com/user-attachments/assets/a61b870b-ca4a-411e-a5d9-7c1e7deea42d)](https://github.com/hhecquet/ft_printf)
+[![gnl](https://github.com/user-attachments/assets/ca9d9bc0-7464-4f59-a30a-f79254afb9e7)](https://github.com/hhecquet/get_next_line)
+[![born](https://github.com/user-attachments/assets/8a3806dc-c784-4002-b228-4e260e33b022)](https://github.com/hhecquet/Born2beroot)
+[![pushswap](https://github.com/user-attachments/assets/b453b095-7231-41bc-bd8f-8ae83c5c08bb)](https://github.com/hhecquet/push_swap)
+[![minital](https://github.com/user-attachments/assets/8a4f0d9a-a092-49fb-b02e-4ce77babb807)](https://github.com/hhecquet/minitalk)
