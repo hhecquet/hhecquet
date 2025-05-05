@@ -36,3 +36,8 @@ In the future, I plan to pursue the RCP7 diploma in [“Data architecture”](ht
 [![born](https://github.com/user-attachments/assets/8a3806dc-c784-4002-b228-4e260e33b022)](https://github.com/hhecquet/Born2beroot)
 [![pushswap](https://github.com/user-attachments/assets/b453b095-7231-41bc-bd8f-8ae83c5c08bb)](https://github.com/hhecquet/push_swap)
 [![minital](https://github.com/user-attachments/assets/8a4f0d9a-a092-49fb-b02e-4ce77babb807)](https://github.com/hhecquet/minitalk)
+![fdf](https://github.com/user-attachments/assets/594946b3-97b9-4c63-b18f-dc6ef336ed24)
+![philo](https://github.com/user-attachments/assets/79ec2f57-c707-40d2-a147-e36a0b3a815b)
+![minishell](https://github.com/user-attachments/assets/ca97a440-6334-4960-b78b-06b95b08e164)
+![net](https://github.com/user-attachments/assets/bf8c28a9-f8c6-4c6a-8ae2-86ca6261a430)
+![incep](https://github.com/user-attachments/assets/47ef79ed-97e0-4cf7-9e10-398d4321709d)
