@@ -5,7 +5,7 @@
   />
 </p>
   
-### **🤗 Hi! I’m Hermine, a 20‑year‑old student at School 42 Perpignan.**
+### **🤗 Hi! I’m Hermine, a 20‑year‑old student at 42 Perpignan.**
   
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
 ### Long story short:
